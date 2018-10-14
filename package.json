@@ -1,6 +1,6 @@
 {
   "name": "hyper-disable-header",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Disable hyper header. Headers are useless for tiling window managers",
   "main": "index.js",
   "scripts": {
